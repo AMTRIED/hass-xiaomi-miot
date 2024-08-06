@@ -1,4 +1,5 @@
 # https://iot.mi.com/new/doc/tools-and-resources/design/spec/description
+# amtried个人的分支
 TRANSLATION_LANGUAGES = {
     'zh': {
         'off': '关闭',
